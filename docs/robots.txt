@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexoliva.com.mx/sitemap.xml
