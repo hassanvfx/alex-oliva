@@ -1,5 +1,5 @@
 # Manifiesto SHA-256 de activos publicos
-# Generado: 2026-07-18
+# Generado: 2026-07-19
 # El manifiesto se excluye de su propio calculo.
 
 0fa190957a802bba34da982f769389f32af2dce2d8d7b4fa694f1de14bb7b931  .gitattributes
@@ -13,7 +13,7 @@ bda51f071af6fb88767ba55428f84c59a2b8a4d1734da09f36911db5fa00108e  assets/evidenc
 9e379e1243fbd7d7be3af9c8f33b8b681a40bde76924a49bd04ef433774fe443  assets/evidence/sellado-techo-septiembre-2024.jpg
 e8dd67e761f1fc98f76f816d0469ed48982009b4127da31c657a19a8e0b11f3e  assets/images/cotizacion-redactada-1.jpg
 1889b7e260bf7e172eddcbcdeb4c27ed817a460f0a02acad7738ce17d7da4673  assets/images/cotizacion-redactada-2.jpg
-4fd2cf88b12fc3d5d1cd6fc7132379b31c0671701d19e7c6da96f9114e553c23  assets/images/dramatizacion-alex-oliva-2.jpg
+67994d78192a50f24adf1d6dfc1ed49ad24cec2274fe2ff6d630c95c47b1047a  assets/images/dramatizacion-anonimizada-3.jpg
 ecb5453618f27e1258386584c0dd36ab7045743ee8374c4d164822317afc84c0  assets/images/og-card.jpg
 5b20bf318e33aabb4fdfb039bfa14427c18890dd5852ef4f58037b027db8a803  assets/site.css
 8781b7b2a0feca8f2686bddcdf0ab3a4e59a3ed278f7c094d20bba9cd43030a3  assets/site.js
@@ -23,8 +23,8 @@ ecb5453618f27e1258386584c0dd36ab7045743ee8374c4d164822317afc84c0  assets/images/
 25ed3eaa38f37319f824f1710043f3638ded605730860093b4a1f93622105514  documentos/cotizacion-proyectos-rehtos-redactada.pdf
 f526fc3f61c4dd12cc650f51dff4284787ca6c784a78dc623ac149632ba8b2c6  documentos/objecion-publica-cargos-18-julio-2026.pdf
 31542e60958701a40d2876bf5163c2a8a36991b357610ff3cd4741eee7373342  evidencia/index.html
-608057b6a4ffd39bbe87bae7300a19fdf85551fbbb6e50d756881210598a6f24  index.html
-ad4a5d05ec247e63ee5874201337b0dc4b2493fd210ac8e3c2aa7ff8e47cd1f0  metodologia/index.html
+6d396d662b5276037ade2a38df43c7b5e294607b55a0543f7080553a854d927a  index.html
+8ac710d794f7a6f4c86fca203f384a7786d090f676aafc56784bbcd4ec650bb2  metodologia/index.html
 df847b0de85c9f4a823710bf3adbcee337b30f2dbccbd9d1478cc92c6a512f93  objecion/index.html
 f96038f83b7ab7584ff3666cd4be3d738738c0f3c29fbb29a89bcaea4c2c491c  robots.txt
 bd02e59dbb53619e9d7960aa81acf46fbe7f547279b30bd704752241a4b6c73f  sitemap.xml
